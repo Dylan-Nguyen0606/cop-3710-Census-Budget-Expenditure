@@ -5,3 +5,4 @@
 # The users of this project's output are likely to be data scientists or economists who need to document US spending habits to perform tasks such as predict economy outcomes or identify patterns that are occurring.
 
 # I plan on using Oracle to create my database, though there lies a significant issue in that the original Kaggle page that was attached to my topic does not work and thus I must work from scratch in this process.
+<img width="860" height="536" alt="image" src="https://github.com/user-attachments/assets/7fe71b6b-7100-4a09-85d5-f4927c5712e8" />
