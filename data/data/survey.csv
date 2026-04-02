@@ -1,0 +1,101 @@
+survey_id,survey_name,survey_type,frequency,sponsor_agency
+1,Annual Capital Expenditure Survey 1,Annual,Annual,National Science Foundation
+2,Business Expenditures Survey 2,Quinquennial,Biennial,Bureau of Economic Analysis
+3,Annual Survey of Manufactures 3,Annual,Decennial,Bureau of Labor Statistics
+4,Service Annual Survey 4,Quarterly,Monthly,U.S. Census Bureau
+5,Economic Census 5,Annual,Annual,Small Business Administration
+6,Quarterly Financial Report 6,Quinquennial,Quarterly,U.S. Census Bureau
+7,Business R&D and Innovation Survey 7,Quarterly,Biennial,IRS Statistics of Income
+8,Statistics of U.S. Businesses 8,Quinquennial,Monthly,National Science Foundation
+9,County Business Patterns 9,Annual,Biennial,IRS Statistics of Income
+10,Survey of Business Owners 10,Decennial,Quinquennial,Bureau of Economic Analysis
+11,Annual Retail Trade Survey 11,Quinquennial,Quinquennial,Bureau of Labor Statistics
+12,Annual Business Survey 12,Annual,Monthly,Bureau of Labor Statistics
+13,Annual Capital Expenditure Survey 13,Decennial,Quinquennial,National Science Foundation
+14,Business Expenditures Survey 14,Annual,Decennial,Federal Reserve Board
+15,Annual Survey of Manufactures 15,Quarterly,Annual,IRS Statistics of Income
+16,Service Annual Survey 16,Annual,Quarterly,National Science Foundation
+17,Economic Census 17,Quarterly,Quinquennial,Small Business Administration
+18,Quarterly Financial Report 18,Annual,Annual,Small Business Administration
+19,Business R&D and Innovation Survey 19,Decennial,Annual,Small Business Administration
+20,Statistics of U.S. Businesses 20,Annual,Monthly,National Science Foundation
+21,County Business Patterns 21,Monthly,Decennial,Department of Commerce
+22,Survey of Business Owners 22,Quinquennial,Quinquennial,Department of Commerce
+23,Annual Retail Trade Survey 23,Quinquennial,Decennial,National Science Foundation
+24,Annual Business Survey 24,Annual,Quarterly,Bureau of Economic Analysis
+25,Annual Capital Expenditure Survey 25,Quarterly,Decennial,Small Business Administration
+26,Business Expenditures Survey 26,Quinquennial,Monthly,IRS Statistics of Income
+27,Annual Survey of Manufactures 27,Decennial,Decennial,Small Business Administration
+28,Service Annual Survey 28,Decennial,Annual,Small Business Administration
+29,Economic Census 29,Annual,Quinquennial,IRS Statistics of Income
+30,Quarterly Financial Report 30,Decennial,Annual,Small Business Administration
+31,Business R&D and Innovation Survey 31,Quarterly,Decennial,Department of Commerce
+32,Statistics of U.S. Businesses 32,Quinquennial,Decennial,Federal Reserve Board
+33,County Business Patterns 33,Monthly,Decennial,Federal Reserve Board
+34,Survey of Business Owners 34,Quinquennial,Quinquennial,Bureau of Economic Analysis
+35,Annual Retail Trade Survey 35,Quinquennial,Decennial,National Science Foundation
+36,Annual Business Survey 36,Quarterly,Monthly,IRS Statistics of Income
+37,Annual Capital Expenditure Survey 37,Decennial,Biennial,Bureau of Economic Analysis
+38,Business Expenditures Survey 38,Quarterly,Monthly,Bureau of Labor Statistics
+39,Annual Survey of Manufactures 39,Annual,Annual,Bureau of Economic Analysis
+40,Service Annual Survey 40,Quinquennial,Decennial,IRS Statistics of Income
+41,Economic Census 41,Quarterly,Annual,IRS Statistics of Income
+42,Quarterly Financial Report 42,Monthly,Quarterly,Federal Reserve Board
+43,Business R&D and Innovation Survey 43,Quarterly,Quinquennial,U.S. Census Bureau
+44,Statistics of U.S. Businesses 44,Annual,Decennial,National Science Foundation
+45,County Business Patterns 45,Decennial,Annual,National Science Foundation
+46,Survey of Business Owners 46,Monthly,Biennial,Federal Reserve Board
+47,Annual Retail Trade Survey 47,Annual,Decennial,National Science Foundation
+48,Annual Business Survey 48,Quarterly,Biennial,Bureau of Labor Statistics
+49,Annual Capital Expenditure Survey 49,Decennial,Decennial,Small Business Administration
+50,Business Expenditures Survey 50,Quinquennial,Quinquennial,Bureau of Economic Analysis
+51,Annual Survey of Manufactures 51,Quarterly,Quarterly,U.S. Census Bureau
+52,Service Annual Survey 52,Quarterly,Quinquennial,Federal Reserve Board
+53,Economic Census 53,Annual,Annual,Department of Commerce
+54,Quarterly Financial Report 54,Decennial,Biennial,U.S. Census Bureau
+55,Business R&D and Innovation Survey 55,Quinquennial,Quarterly,Bureau of Labor Statistics
+56,Statistics of U.S. Businesses 56,Annual,Decennial,Federal Reserve Board
+57,County Business Patterns 57,Annual,Quarterly,Bureau of Economic Analysis
+58,Survey of Business Owners 58,Quinquennial,Decennial,Federal Reserve Board
+59,Annual Retail Trade Survey 59,Quarterly,Biennial,National Science Foundation
+60,Annual Business Survey 60,Quarterly,Quarterly,IRS Statistics of Income
+61,Annual Capital Expenditure Survey 61,Quinquennial,Quarterly,Small Business Administration
+62,Business Expenditures Survey 62,Decennial,Monthly,Department of Commerce
+63,Annual Survey of Manufactures 63,Monthly,Quarterly,Federal Reserve Board
+64,Service Annual Survey 64,Annual,Biennial,Small Business Administration
+65,Economic Census 65,Annual,Quinquennial,U.S. Census Bureau
+66,Quarterly Financial Report 66,Quarterly,Quarterly,Small Business Administration
+67,Business R&D and Innovation Survey 67,Quarterly,Biennial,U.S. Census Bureau
+68,Statistics of U.S. Businesses 68,Annual,Decennial,U.S. Census Bureau
+69,County Business Patterns 69,Quinquennial,Annual,U.S. Census Bureau
+70,Survey of Business Owners 70,Decennial,Annual,Small Business Administration
+71,Annual Retail Trade Survey 71,Decennial,Decennial,Federal Reserve Board
+72,Annual Business Survey 72,Quinquennial,Quarterly,Bureau of Economic Analysis
+73,Annual Capital Expenditure Survey 73,Quarterly,Quarterly,Federal Reserve Board
+74,Business Expenditures Survey 74,Quinquennial,Monthly,IRS Statistics of Income
+75,Annual Survey of Manufactures 75,Quinquennial,Annual,Bureau of Labor Statistics
+76,Service Annual Survey 76,Monthly,Quinquennial,IRS Statistics of Income
+77,Economic Census 77,Monthly,Monthly,U.S. Census Bureau
+78,Quarterly Financial Report 78,Annual,Annual,IRS Statistics of Income
+79,Business R&D and Innovation Survey 79,Decennial,Annual,Small Business Administration
+80,Statistics of U.S. Businesses 80,Quinquennial,Biennial,Federal Reserve Board
+81,County Business Patterns 81,Quinquennial,Monthly,Bureau of Economic Analysis
+82,Survey of Business Owners 82,Decennial,Monthly,Small Business Administration
+83,Annual Retail Trade Survey 83,Annual,Monthly,Bureau of Labor Statistics
+84,Annual Business Survey 84,Annual,Decennial,U.S. Census Bureau
+85,Annual Capital Expenditure Survey 85,Annual,Biennial,Bureau of Economic Analysis
+86,Business Expenditures Survey 86,Monthly,Monthly,Federal Reserve Board
+87,Annual Survey of Manufactures 87,Quinquennial,Monthly,U.S. Census Bureau
+88,Service Annual Survey 88,Quinquennial,Monthly,U.S. Census Bureau
+89,Economic Census 89,Monthly,Quinquennial,Federal Reserve Board
+90,Quarterly Financial Report 90,Decennial,Monthly,Federal Reserve Board
+91,Business R&D and Innovation Survey 91,Quinquennial,Biennial,National Science Foundation
+92,Statistics of U.S. Businesses 92,Quinquennial,Annual,U.S. Census Bureau
+93,County Business Patterns 93,Decennial,Annual,U.S. Census Bureau
+94,Survey of Business Owners 94,Quarterly,Monthly,Bureau of Economic Analysis
+95,Annual Retail Trade Survey 95,Annual,Quarterly,Bureau of Labor Statistics
+96,Annual Business Survey 96,Quinquennial,Annual,Bureau of Labor Statistics
+97,Annual Capital Expenditure Survey 97,Quinquennial,Monthly,Bureau of Labor Statistics
+98,Business Expenditures Survey 98,Quarterly,Biennial,U.S. Census Bureau
+99,Annual Survey of Manufactures 99,Quarterly,Annual,IRS Statistics of Income
+100,Service Annual Survey 100,Quarterly,Quarterly,Department of Commerce

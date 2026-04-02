@@ -1,0 +1,151 @@
+geo_id,geo_type,state_fips,county_fips,msa_code,region_name
+1,Region,01,,,East South Central Area 1
+2,National,33,,,Northeast Area 2
+3,County,40,40371,,West South Central Area 3
+4,National,48,,,Mid-Atlantic Area 4
+5,State,20,,,Pacific Area 5
+6,Region,15,,,Pacific Area 6
+7,National,53,,,Mid-Atlantic Area 7
+8,State,04,,,West South Central Area 8
+9,County,54,54163,,Pacific Area 9
+10,Region,01,,,East South Central Area 10
+11,National,10,,,West Area 11
+12,State,36,,,South Area 12
+13,City,16,,,Mid-Atlantic Area 13
+14,City,25,,,East South Central Area 14
+15,City,24,,,New England Area 15
+16,National,37,,,West Area 16
+17,National,42,,,Midwest Area 17
+18,National,19,,,West South Central Area 18
+19,Region,56,,,Midwest Area 19
+20,State,24,,,New England Area 20
+21,MSA,39,,45018,Northeast Area 21
+22,MSA,55,,49132,West South Central Area 22
+23,Region,50,,,Mid-Atlantic Area 23
+24,County,35,35552,,Mid-Atlantic Area 24
+25,MSA,28,,82340,East South Central Area 25
+26,National,36,,,Mountain Area 26
+27,County,53,53245,,West South Central Area 27
+28,National,21,,,New England Area 28
+29,State,27,,,Mid-Atlantic Area 29
+30,City,31,,,New England Area 30
+31,City,49,,,Midwest Area 31
+32,National,06,,,Midwest Area 32
+33,Region,45,,,Mountain Area 33
+34,State,35,,,South Area 34
+35,Region,36,,,Northeast Area 35
+36,City,16,,,New England Area 36
+37,City,16,,,South Area 37
+38,National,23,,,Mountain Area 38
+39,Region,53,,,New England Area 39
+40,City,10,,,Mountain Area 40
+41,City,41,,,New England Area 41
+42,MSA,48,,73956,East South Central Area 42
+43,State,47,,,South Area 43
+44,County,48,48701,,Pacific Area 44
+45,County,56,56093,,New England Area 45
+46,State,72,,,South Area 46
+47,National,17,,,Pacific Area 47
+48,State,06,,,Mountain Area 48
+49,State,25,,,Mountain Area 49
+50,MSA,34,,29080,West Area 50
+51,Region,33,,,West South Central Area 51
+52,City,18,,,Midwest Area 52
+53,County,10,10625,,New England Area 53
+54,Region,51,,,West Area 54
+55,National,45,,,Midwest Area 55
+56,County,36,36654,,Pacific Area 56
+57,National,23,,,Northeast Area 57
+58,National,25,,,East South Central Area 58
+59,County,09,09453,,Mountain Area 59
+60,Region,26,,,New England Area 60
+61,City,23,,,Mid-Atlantic Area 61
+62,MSA,19,,60422,Mid-Atlantic Area 62
+63,State,22,,,New England Area 63
+64,Region,29,,,West South Central Area 64
+65,MSA,53,,48696,Northeast Area 65
+66,City,32,,,Pacific Area 66
+67,State,44,,,Northeast Area 67
+68,Region,56,,,Mid-Atlantic Area 68
+69,MSA,78,,40162,West South Central Area 69
+70,MSA,21,,93442,West Area 70
+71,Region,23,,,Midwest Area 71
+72,City,12,,,Northeast Area 72
+73,MSA,35,,14373,West South Central Area 73
+74,MSA,55,,27224,South Area 74
+75,MSA,27,,64460,Midwest Area 75
+76,County,15,15806,,East South Central Area 76
+77,MSA,40,,75771,Pacific Area 77
+78,County,23,23936,,Mid-Atlantic Area 78
+79,MSA,56,,54396,South Area 79
+80,National,09,,,Midwest Area 80
+81,County,51,51742,,New England Area 81
+82,Region,30,,,South Area 82
+83,National,01,,,Pacific Area 83
+84,Region,13,,,Mid-Atlantic Area 84
+85,MSA,51,,98125,Pacific Area 85
+86,Region,31,,,Mountain Area 86
+87,State,51,,,West Area 87
+88,National,04,,,West South Central Area 88
+89,Region,27,,,West South Central Area 89
+90,County,49,49065,,Mid-Atlantic Area 90
+91,City,26,,,New England Area 91
+92,State,15,,,Northeast Area 92
+93,State,26,,,Mid-Atlantic Area 93
+94,State,12,,,West Area 94
+95,Region,15,,,New England Area 95
+96,National,30,,,East South Central Area 96
+97,National,45,,,Midwest Area 97
+98,National,49,,,South Area 98
+99,National,47,,,New England Area 99
+100,MSA,06,,58566,West Area 100
+101,National,35,,,West Area 101
+102,MSA,12,,99873,Mountain Area 102
+103,Region,49,,,Mountain Area 103
+104,State,32,,,Pacific Area 104
+105,County,13,13972,,Mid-Atlantic Area 105
+106,State,50,,,West Area 106
+107,City,48,,,West South Central Area 107
+108,State,08,,,Mountain Area 108
+109,County,15,15806,,West South Central Area 109
+110,County,09,09850,,East South Central Area 110
+111,County,45,45222,,West Area 111
+112,MSA,78,,29340,West South Central Area 112
+113,State,24,,,Midwest Area 113
+114,County,41,41257,,Midwest Area 114
+115,State,50,,,Northeast Area 115
+116,County,01,01367,,West Area 116
+117,Region,27,,,Northeast Area 117
+118,County,23,23054,,Midwest Area 118
+119,City,33,,,East South Central Area 119
+120,State,56,,,South Area 120
+121,National,35,,,Mountain Area 121
+122,Region,45,,,South Area 122
+123,National,39,,,West Area 123
+124,Region,06,,,East South Central Area 124
+125,MSA,36,,94323,Northeast Area 125
+126,State,37,,,New England Area 126
+127,National,51,,,South Area 127
+128,National,54,,,Mid-Atlantic Area 128
+129,State,10,,,Mountain Area 129
+130,Region,16,,,South Area 130
+131,County,24,24640,,West South Central Area 131
+132,Region,54,,,Mountain Area 132
+133,National,46,,,East South Central Area 133
+134,MSA,36,,76263,West South Central Area 134
+135,National,12,,,South Area 135
+136,City,49,,,East South Central Area 136
+137,City,20,,,New England Area 137
+138,National,21,,,New England Area 138
+139,MSA,36,,62262,New England Area 139
+140,City,12,,,Mountain Area 140
+141,National,27,,,Pacific Area 141
+142,MSA,16,,72163,South Area 142
+143,State,10,,,South Area 143
+144,National,12,,,Mountain Area 144
+145,County,42,42062,,West South Central Area 145
+146,Region,42,,,Mountain Area 146
+147,City,13,,,New England Area 147
+148,MSA,50,,65435,Northeast Area 148
+149,MSA,46,,50953,Mountain Area 149
+150,State,44,,,East South Central Area 150
