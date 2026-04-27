@@ -1,0 +1,3 @@
+HOW TO USE DATABASE
+Run the create_db.sql file
+Then run the dataload.py file to load the provided CSV files for use.
